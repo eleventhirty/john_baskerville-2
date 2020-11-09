@@ -17,3 +17,4 @@ Created my first webpage marking up some plain text
 
 History of Type 
 ================
+
